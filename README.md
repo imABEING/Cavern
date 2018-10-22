@@ -11,4 +11,5 @@ Click the image to see a video demonstration of the plugin!
 alt="IMAGE ALT TEXT HERE" width="500" height="400" border="10" /></a>
 
 ### Credits
-[Voger Design](https://vogerdesign.com/ "Google's Homepage")
+[Kamilah Mitchell](http://alexxbeats.weebly.com/ "Rolex Alexx") : Software Developer, UI/UX Developer
+[Voger Design](https://vogerdesign.com/ "Voger Design's Homepage") : Graphic Design (Knobs)
