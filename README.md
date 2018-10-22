@@ -7,7 +7,7 @@ The single knob controls the feedback amount of the reverb, ranging from 0.03 to
 ## Credits
 [Kamilah Mitchell](http://alexxbeats.weebly.com/ "Rolex Alexx") : Software Developer, UI/UX Developer
 
-[Voger Design](https://vogerdesign.com/ "Voger Design's Homepage") : Graphic Design (Knobs
+[Voger Design](https://vogerdesign.com/ "Voger Design's Homepage") : Graphic Design (Knobs)
 
 
 ### Demo
