@@ -5,9 +5,10 @@ This reverb plugin was made using Cabbage and Csound. It features an 8 delay lin
 The single knob controls the feedback amount of the reverb, ranging from 0.03 to 1.00. 
 
 
-
 Click the image to see a video demonstration of the plugin!
 <a href="https://www.youtube.com/watch?v=-OKyP_JYE5k
 " target="_blank"><img src="https://github.com/imABEING/Cavern/blob/master/Images/CavernLiteUI.jpeg" 
 alt="IMAGE ALT TEXT HERE" width="500" height="400" border="10" /></a>
 
+### Credits
+[Voger Design](https://vogerdesign.com/ "Google's Homepage")
